@@ -13,6 +13,12 @@ https://www.hackingwithswift.com/review#start
 
 https://www.hackingwithswift.com/glossary
 
+# Swift 5.1
+
+https://developer.apple.com/swift/
+
+https://developer.apple.com/swift/resources/
+
 ## swift basic
 
 https://www.hackingwithswift.com/100/swiftui/1
