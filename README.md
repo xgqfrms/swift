@@ -6,6 +6,30 @@
 
 https://github.com/xgqfrms/swift-apps
 
+## A Swift Tour
+
+https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
+
+### closures
+
+```swift
+var numbers = [20, 19, 7, 12];
+
+numbers.map({ (number: Int) -> Int in
+    let result = 3 * number
+    return result
+});
+
+let mappedNumbers = numbers.map({ number in 3 * number })
+print(mappedNumbers)
+// Prints "[60, 57, 21, 36]"
+
+let sortedNumbers = numbers.sorted { $0 > $1 }
+print(sortedNumbers)
+// Prints "[20, 19, 12, 7]"
+
+```
+
 
 ## Swift 5.1 Basics
 
@@ -419,3 +443,4 @@ https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html
 ```swift
 
 ```
+
