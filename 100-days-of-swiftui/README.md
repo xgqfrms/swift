@@ -4,12 +4,12 @@
 
 https://www.hackingwithswift.com/100/swiftui
 
+https://www.hackingwithswift.com/review
+
 > UIKit
 
 https://www.hackingwithswift.com/100/swift
 
-
-https://www.hackingwithswift.com/review#start
 
 https://www.hackingwithswift.com/glossary
 
@@ -26,9 +26,7 @@ https://developer.apple.com/swift/resources/
 
 ## swift basic
 
-https://www.hackingwithswift.com/100/swiftui/1
-
-https://www.hackingwithswift.com/sixty/1/1/variables
+https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 
 
 ## `?` & `!`
