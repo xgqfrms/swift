@@ -21,7 +21,7 @@ enum Result {
 let result = Result.failure;
 
 
-enum Activity {
+enum Activities {
     case bored
     case running
     case talking
