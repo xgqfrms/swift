@@ -1,10 +1,12 @@
-# swift
+# Swift
 
-> swift 4
+> swift 4 / swift 4.2
+
+https://github.com/xgqfrms/swift-apps
 
 > swift 5.1
 
-https://github.com/xgqfrms/swift-apps
+https://docs.swift.org/swift-book/RevisionHistory/RevisionHistory.html
 
 ## A Swift Tour
 
